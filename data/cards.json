@@ -9,3 +9,974 @@
     "image": "/assets/cards/OP01-016.jpg"
   }
 }
+{
+  "OP01-001": {
+    "name_en": "Roronoa",
+    "name_jp": "",
+    "set": "OP01",
+    "rarity": "L",
+    "color": "Zoro",
+    "image": ""
+  },
+  "OP01-002": {
+    "name_en": "Trafalgar",
+    "name_jp": "",
+    "set": "OP01",
+    "rarity": "L",
+    "color": "Law",
+    "image": ""
+  },
+  "OP01-003": {
+    "name_en": "Monkey.D.Luffy",
+    "name_jp": "",
+    "set": "OP01",
+    "rarity": "L",
+    "color": "Red/Green",
+    "image": ""
+  },
+  "OP01-004": {
+    "name_en": "Usopp",
+    "name_jp": "",
+    "set": "OP01",
+    "rarity": "R",
+    "color": "Red",
+    "image": ""
+  },
+  "OP01-005": {
+    "name_en": "Uta",
+    "name_jp": "",
+    "set": "OP01",
+    "rarity": "R",
+    "color": "Red",
+    "image": ""
+  },
+  "OP01-006": {
+    "name_en": "Otama",
+    "name_jp": "",
+    "set": "OP01",
+    "rarity": "UC",
+    "color": "Red",
+    "image": ""
+  },
+  "OP01-007": {
+    "name_en": "Caribou",
+    "name_jp": "",
+    "set": "OP01",
+    "rarity": "C",
+    "color": "Red",
+    "image": ""
+  },
+  "OP01-008": {
+    "name_en": "Cavendish",
+    "name_jp": "",
+    "set": "OP01",
+    "rarity": "C",
+    "color": "Red",
+    "image": ""
+  },
+  "OP01-009": {
+    "name_en": "Carrot",
+    "name_jp": "",
+    "set": "OP01",
+    "rarity": "C",
+    "color": "Red",
+    "image": ""
+  },
+  "OP01-010": {
+    "name_en": "Komachiyo",
+    "name_jp": "",
+    "set": "OP01",
+    "rarity": "C",
+    "color": "Red",
+    "image": ""
+  },
+  "OP01-011": {
+    "name_en": "Gordon",
+    "name_jp": "",
+    "set": "OP01",
+    "rarity": "UC",
+    "color": "Red",
+    "image": ""
+  },
+  "OP01-012": {
+    "name_en": "Sai",
+    "name_jp": "",
+    "set": "OP01",
+    "rarity": "C",
+    "color": "Red",
+    "image": ""
+  },
+  "OP01-013": {
+    "name_en": "Sanji",
+    "name_jp": "",
+    "set": "OP01",
+    "rarity": "R",
+    "color": "Red",
+    "image": ""
+  },
+  "OP01-014": {
+    "name_en": "Jinbe",
+    "name_jp": "",
+    "set": "OP01",
+    "rarity": "UC",
+    "color": "Red",
+    "image": ""
+  },
+  "OP01-015": {
+    "name_en": "Tony",
+    "name_jp": "",
+    "set": "OP01",
+    "rarity": "UC",
+    "color": "Tony.Chopper",
+    "image": ""
+  },
+  "OP01-016": {
+    "name_en": "Nami",
+    "name_jp": "",
+    "set": "OP01",
+    "rarity": "R",
+    "color": "Red",
+    "image": ""
+  },
+  "OP01-017": {
+    "name_en": "Nico",
+    "name_jp": "",
+    "set": "OP01",
+    "rarity": "R",
+    "color": "Robin",
+    "image": ""
+  },
+  "OP01-018": {
+    "name_en": "Hajrudin",
+    "name_jp": "",
+    "set": "OP01",
+    "rarity": "C",
+    "color": "Red",
+    "image": ""
+  },
+  "OP01-019": {
+    "name_en": "Bartolomeo",
+    "name_jp": "",
+    "set": "OP01",
+    "rarity": "C",
+    "color": "Red",
+    "image": ""
+  },
+  "OP01-020": {
+    "name_en": "Hyogoro",
+    "name_jp": "",
+    "set": "OP01",
+    "rarity": "C",
+    "color": "Red",
+    "image": ""
+  },
+  "OP01-021": {
+    "name_en": "Franky",
+    "name_jp": "",
+    "set": "OP01",
+    "rarity": "UC",
+    "color": "Red",
+    "image": ""
+  },
+  "OP01-022": {
+    "name_en": "Brook",
+    "name_jp": "",
+    "set": "OP01",
+    "rarity": "UC",
+    "color": "Red",
+    "image": ""
+  },
+  "OP01-023": {
+    "name_en": "Marco",
+    "name_jp": "",
+    "set": "OP01",
+    "rarity": "C",
+    "color": "Red",
+    "image": ""
+  },
+  "OP01-024": {
+    "name_en": "Monkey.D.Luffy",
+    "name_jp": "",
+    "set": "OP01",
+    "rarity": "SR",
+    "color": "Red",
+    "image": ""
+  },
+  "OP01-025": {
+    "name_en": "Roronoa",
+    "name_jp": "",
+    "set": "OP01",
+    "rarity": "SR",
+    "color": "Zoro",
+    "image": ""
+  },
+  "OP01-026": {
+    "name_en": "Gum-Gum",
+    "name_jp": "",
+    "set": "OP01",
+    "rarity": "R",
+    "color": "Fire-Fist",
+    "image": ""
+  },
+  "OP01-027": {
+    "name_en": "Round",
+    "name_jp": "",
+    "set": "OP01",
+    "rarity": "C",
+    "color": "Table",
+    "image": ""
+  },
+  "OP01-028": {
+    "name_en": "Green",
+    "name_jp": "",
+    "set": "OP01",
+    "rarity": "C",
+    "color": "Star",
+    "image": ""
+  },
+  "OP01-029": {
+    "name_en": "Radical",
+    "name_jp": "",
+    "set": "OP01",
+    "rarity": "UC",
+    "color": "Beam!!",
+    "image": ""
+  },
+  "OP01-030": {
+    "name_en": "In",
+    "name_jp": "",
+    "set": "OP01",
+    "rarity": "UC",
+    "color": "Two",
+    "image": ""
+  },
+  "OP01-031": {
+    "name_en": "Kouzuki",
+    "name_jp": "",
+    "set": "OP01",
+    "rarity": "L",
+    "color": "Oden",
+    "image": ""
+  },
+  "OP01-032": {
+    "name_en": "Ashura",
+    "name_jp": "",
+    "set": "OP01",
+    "rarity": "UC",
+    "color": "Doji",
+    "image": ""
+  },
+  "OP01-033": {
+    "name_en": "Izo",
+    "name_jp": "",
+    "set": "OP01",
+    "rarity": "UC",
+    "color": "Green",
+    "image": ""
+  },
+  "OP01-034": {
+    "name_en": "Dogstorm",
+    "name_jp": "",
+    "set": "OP01",
+    "rarity": "",
+    "color": "Green",
+    "image": ""
+  },
+  "OP01-035": {
+    "name_en": "Okiku",
+    "name_jp": "",
+    "set": "OP01",
+    "rarity": "R",
+    "color": "Green",
+    "image": ""
+  },
+  "OP01-036": {
+    "name_en": "Otsuru",
+    "name_jp": "",
+    "set": "OP01",
+    "rarity": "C",
+    "color": "Green",
+    "image": ""
+  },
+  "OP01-037": {
+    "name_en": "Kawamatsu",
+    "name_jp": "",
+    "set": "OP01",
+    "rarity": "",
+    "color": "Green",
+    "image": ""
+  },
+  "OP01-038": {
+    "name_en": "Kanjuro",
+    "name_jp": "",
+    "set": "OP01",
+    "rarity": "C",
+    "color": "Green",
+    "image": ""
+  },
+  "OP01-039": {
+    "name_en": "Killer",
+    "name_jp": "",
+    "set": "OP01",
+    "rarity": "UC",
+    "color": "Green",
+    "image": ""
+  },
+  "OP01-040": {
+    "name_en": "Kin'emon",
+    "name_jp": "",
+    "set": "OP01",
+    "rarity": "SR",
+    "color": "Green",
+    "image": ""
+  },
+  "OP01-041": {
+    "name_en": "Kouzuki",
+    "name_jp": "",
+    "set": "OP01",
+    "rarity": "R",
+    "color": "Momonosuke",
+    "image": ""
+  },
+  "OP01-042": {
+    "name_en": "Komurasaki",
+    "name_jp": "",
+    "set": "OP01",
+    "rarity": "UC",
+    "color": "Green",
+    "image": ""
+  },
+  "OP01-043": {
+    "name_en": "Shinobu",
+    "name_jp": "",
+    "set": "OP01",
+    "rarity": "C",
+    "color": "Green",
+    "image": ""
+  },
+  "OP01-044": {
+    "name_en": "Shachi",
+    "name_jp": "",
+    "set": "OP01",
+    "rarity": "C",
+    "color": "Green",
+    "image": ""
+  },
+  "OP01-045": {
+    "name_en": "Jean",
+    "name_jp": "",
+    "set": "OP01",
+    "rarity": "C",
+    "color": "Bart",
+    "image": ""
+  },
+  "OP01-046": {
+    "name_en": "Denjiro",
+    "name_jp": "",
+    "set": "OP01",
+    "rarity": "R",
+    "color": "Green",
+    "image": ""
+  },
+  "OP01-047": {
+    "name_en": "Trafalgar",
+    "name_jp": "",
+    "set": "OP01",
+    "rarity": "SR",
+    "color": "Law",
+    "image": ""
+  },
+  "OP01-048": {
+    "name_en": "Cat",
+    "name_jp": "",
+    "set": "OP01",
+    "rarity": "C",
+    "color": "Viper",
+    "image": ""
+  },
+  "OP01-049": {
+    "name_en": "Bepo",
+    "name_jp": "",
+    "set": "OP01",
+    "rarity": "R",
+    "color": "Green",
+    "image": ""
+  },
+  "OP01-050": {
+    "name_en": "Penguin",
+    "name_jp": "",
+    "set": "OP01",
+    "rarity": "C",
+    "color": "Green",
+    "image": ""
+  },
+  "OP01-051": {
+    "name_en": "Eustass",
+    "name_jp": "",
+    "set": "OP01",
+    "rarity": "SR",
+    "color": "Kid",
+    "image": ""
+  },
+  "OP01-052": {
+    "name_en": "Raizo",
+    "name_jp": "",
+    "set": "OP01",
+    "rarity": "UC",
+    "color": "Green",
+    "image": ""
+  },
+  "OP01-053": {
+    "name_en": "Wire",
+    "name_jp": "",
+    "set": "OP01",
+    "rarity": "C",
+    "color": "Green",
+    "image": ""
+  },
+  "OP01-054": {
+    "name_en": "X.Drake",
+    "name_jp": "",
+    "set": "OP01",
+    "rarity": "R",
+    "color": "Green",
+    "image": ""
+  },
+  "OP01-055": {
+    "name_en": "You",
+    "name_jp": "",
+    "set": "OP01",
+    "rarity": "C",
+    "color": "Can",
+    "image": ""
+
+  },
+  "OP01-056": {
+    "name_en": "Demon",
+    "name_jp": "",
+    "set": "OP01",
+    "rarity": "UC",
+    "color": "Face",
+    "image": ""
+  },
+  "OP01-057": {
+    "name_en": "Paradise",
+    "name_jp": "",
+    "set": "OP01",
+    "rarity": "UC",
+    "color": "Waterfall",
+    "image": ""
+  },
+  "OP01-058": {
+    "name_en": "Punk",
+    "name_jp": "",
+    "set": "OP01",
+    "rarity": "R",
+    "color": "Gibson",
+    "image": ""
+  },
+  "OP01-059": {
+    "name_en": "BE-BENG!!",
+    "name_jp": "",
+    "set": "OP01",
+    "rarity": "C",
+    "color": "Green",
+    "image": ""
+  },
+  "OP01-060": {
+    "name_en": "Donquixote",
+    "name_jp": "",
+    "set": "OP01",
+    "rarity": "L",
+    "color": "Doflamingo",
+    "image": ""
+  },
+  "OP01-061": {
+    "name_en": "Kaido",
+    "name_jp": "",
+    "set": "OP01",
+    "rarity": "L",
+    "color": "Blue",
+    "image": ""
+  },
+  "OP01-062": {
+    "name_en": "Crocodile",
+    "name_jp": "",
+    "set": "OP01",
+    "rarity": "L",
+    "color": "Blue",
+    "image": ""
+  },
+  "OP01-063": {
+    "name_en": "Arlong",
+    "name_jp": "",
+    "set": "OP01",
+    "rarity": "UC",
+    "color": "Blue",
+    "image": ""
+  },
+  "OP01-064": {
+    "name_en": "Alvida",
+    "name_jp": "",
+    "set": "OP01",
+    "rarity": "C",
+    "color": "Blue",
+    "image": ""
+  },
+  "OP01-065": {
+    "name_en": "Vergo",
+    "name_jp": "",
+    "set": "OP01",
+    "rarity": "C",
+    "color": "Blue",
+    "image": ""
+  },
+  "OP01-066": {
+    "name_en": "Krieg",
+    "name_jp": "",
+    "set": "OP01",
+    "rarity": "C",
+    "color": "Blue",
+    "image": ""
+  },
+  "OP01-067": {
+    "name_en": "Crocodile",
+    "name_jp": "",
+    "set": "OP01",
+    "rarity": "SR",
+    "color": "Blue",
+    "image": ""
+  },
+  "OP01-068": {
+    "name_en": "Gecko",
+    "name_jp": "",
+    "set": "OP01",
+    "rarity": "R",
+    "color": "Moria",
+    "image": ""
+  },
+  "OP01-069": {
+    "name_en": "Caesar",
+    "name_jp": "",
+    "set": "OP01",
+    "rarity": "R",
+    "color": "Clown",
+    "image": ""
+  },
+  "OP01-070": {
+    "name_en": "Dracule",
+    "name_jp": "",
+    "set": "OP01",
+    "rarity": "SR",
+    "color": "Mihawk",
+    "image": ""
+  },
+  "OP01-071": {
+    "name_en": "Jinbe",
+    "name_jp": "",
+    "set": "OP01",
+    "rarity": "R",
+    "color": "Blue",
+    "image": ""
+  },
+  "OP01-072": {
+    "name_en": "Smiley",
+    "name_jp": "",
+    "set": "OP01",
+    "rarity": "C",
+    "color": "Blue",
+    "image": ""
+  },
+  "OP01-073": {
+    "name_en": "Donquixote",
+    "name_jp": "",
+    "set": "OP01",
+    "rarity": "R",
+    "color": "Doflamingo",
+    "image": ""
+  },
+  "OP01-074": {
+    "name_en": "Bartholomew",
+    "name_jp": "",
+    "set": "OP01",
+    "rarity": "R",
+    "color": "Kuma",
+    "image": ""
+  },
+  "OP01-075": {
+    "name_en": "Pacifista",
+    "name_jp": "",
+    "set": "OP01",
+    "rarity": "C",
+    "color": "Blue",
+    "image": ""
+  },
+  "OP01-076": {
+    "name_en": "Bellamy",
+    "name_jp": "",
+    "set": "OP01",
+    "rarity": "C",
+    "color": "Blue",
+    "image": ""
+  },
+  "OP01-077": {
+    "name_en": "Perona",
+    "name_jp": "",
+    "set": "OP01",
+    "rarity": "UC",
+    "color": "Blue",
+    "image": ""
+  },
+  "OP01-078": {
+    "name_en": "Boa",
+    "name_jp": "",
+    "set": "OP01",
+    "rarity": "SR",
+    "color": "Hancock",
+    "image": ""
+  },
+  "OP01-079": {
+    "name_en": "Ms.",
+    "name_jp": "",
+    "set": "OP01",
+    "rarity": "R",
+    "color": "All-Sunday",
+    "image": ""
+  },
+  "OP01-080": {
+    "name_en": "Ms.",
+    "name_jp": "",
+    "set": "OP01",
+    "rarity": "C",
+    "color": "Doublefinger",
+    "image": ""
+  },
+  "OP01-081": {
+    "name_en": "Mocha",
+    "name_jp": "",
+    "set": "OP01",
+    "rarity": "C",
+    "color": "Blue",
+    "image": ""
+  },
+  "OP01-082": {
+    "name_en": "Monet",
+    "name_jp": "",
+    "set": "OP01",
+    "rarity": "C",
+    "color": "Blue",
+    "image": ""
+  },
+  "OP01-083": {
+    "name_en": "Mr.1",
+    "name_jp": "",
+    "set": "OP01",
+    "rarity": "UC",
+    "color": "(Daz",
+    "image": ""
+  },
+  "OP01-084": {
+    "name_en": "Mr.",
+    "name_jp": "",
+    "set": "OP01",
+    "rarity": "UC",
+    "color": "2",
+    "image": ""
+  },
+  "OP01-085": {
+    "name_en": "Mr.3",
+    "name_jp": "",
+    "set": "OP01",
+    "rarity": "UC",
+    "color": "(Galdino)",
+    "image": ""
+  },
+  "OP01-086": {
+    "name_en": "Overheat",
+    "name_jp": "",
+    "set": "OP01",
+    "rarity": "R",
+    "color": "Blue",
+    "image": ""
+  },
+  "OP01-087": {
+    "name_en": "Officer",
+    "name_jp": "",
+    "set": "OP01",
+    "rarity": "C",
+    "color": "Agents",
+    "image": ""
+  },
+  "OP01-088": {
+    "name_en": "Desert",
+    "name_jp": "",
+    "set": "OP01",
+    "rarity": "UC",
+    "color": "Spada",
+    "image": ""
+  },
+  "OP01-089": {
+    "name_en": "Crescent",
+    "name_jp": "",
+    "set": "OP01",
+    "rarity": "C",
+    "color": "Cutlass",
+    "image": ""
+  },
+  "OP01-090": {
+    "name_en": "Baroque",
+    "name_jp": "",
+    "set": "OP01",
+    "rarity": "UC",
+    "color": "Works",
+    "image": ""
+  },
+  "OP01-091": {
+    "name_en": "King",
+    "name_jp": "",
+    "set": "OP01",
+    "rarity": "L",
+    "color": "Purple",
+    "image": ""
+  },
+  "OP01-092": {
+    "name_en": "Urashima",
+    "name_jp": "",
+    "set": "OP01",
+    "rarity": "C",
+    "color": "Purple",
+    "image": ""
+  },
+  "OP01-093": {
+    "name_en": "Ulti",
+    "name_jp": "",
+    "set": "OP01",
+    "rarity": "R",
+    "color": "Purple",
+    "image": ""
+  },
+  "OP01-094": {
+    "name_en": "Kaido",
+    "name_jp": "",
+    "set": "OP01",
+    "rarity": "SR",
+    "color": "Purple",
+    "image": ""
+  },
+  "OP01-095": {
+    "name_en": "Kyoushirou",
+    "name_jp": "",
+    "set": "OP01",
+    "rarity": "UC",
+    "color": "Purple",
+    "image": ""
+  },
+  "OP01-096": {
+    "name_en": "King",
+    "name_jp": "",
+    "set": "OP01",
+    "rarity": "SR",
+    "color": "Purple",
+    "image": ""
+  },
+  "OP01-097": {
+    "name_en": "Queen",
+    "name_jp": "",
+    "set": "OP01",
+    "rarity": "R",
+    "color": "Purple",
+    "image": ""
+  },
+  "OP01-098": {
+    "name_en": "Kurozumi",
+    "name_jp": "",
+    "set": "OP01",
+    "rarity": "UC",
+    "color": "Orochi",
+    "image": ""
+  },
+  "OP01-099": {
+    "name_en": "Kurozumi",
+    "name_jp": "",
+    "set": "OP01",
+    "rarity": "C",
+    "color": "Semimaru",
+    "image": ""
+  },
+  "OP01-100": {
+    "name_en": "Kurozumi",
+    "name_jp": "",
+    "set": "OP01",
+    "rarity": "C",
+    "color": "Higurashi",
+    "image": ""
+  },
+  "OP01-101": {
+    "name_en": "Sasaki",
+    "name_jp": "",
+    "set": "OP01",
+    "rarity": "UC",
+    "color": "Purple",
+    "image": ""
+  },
+  "OP01-102": {
+    "name_en": "Jack",
+    "name_jp": "",
+    "set": "OP01",
+    "rarity": "R",
+    "color": "Purple",
+    "image": ""
+  },
+  "OP01-103": {
+    "name_en": "Scratchmen",
+    "name_jp": "",
+    "set": "OP01",
+    "rarity": "C",
+    "color": "Apoo",
+    "image": ""
+  },
+  "OP01-104": {
+    "name_en": "Speed",
+    "name_jp": "",
+    "set": "OP01",
+    "rarity": "C",
+    "color": "Purple",
+    "image": ""
+  },
+  "OP01-105": {
+    "name_en": "Bao",
+    "name_jp": "",
+    "set": "OP01",
+    "rarity": "C",
+    "color": "Huang",
+    "image": ""
+  },
+  "OP01-106": {
+    "name_en": "Basil",
+    "name_jp": "",
+    "set": "OP01",
+    "rarity": "UC",
+    "color": "Hawkins",
+    "image": ""
+  },
+  "OP01-107": {
+    "name_en": "Babanuki",
+    "name_jp": "",
+    "set": "OP01",
+    "rarity": "C",
+    "color": "Purple",
+    "image": ""
+  },
+  "OP01-108": {
+    "name_en": "Hitokiri",
+    "name_jp": "",
+    "set": "OP01",
+    "rarity": "UC",
+    "color": "Kamazo",
+    "image": ""
+  },
+  "OP01-109": {
+    "name_en": "Who's-Who",
+    "name_jp": "",
+    "set": "OP01",
+    "rarity": "UC",
+    "color": "Purple",
+    "image": ""
+  },
+  "OP01-110": {
+    "name_en": "Fukurokuju",
+    "name_jp": "",
+    "set": "OP01",
+    "rarity": "C",
+    "color": "Purple",
+    "image": ""
+  },
+  "OP01-111": {
+    "name_en": "Black",
+    "name_jp": "",
+    "set": "OP01",
+    "rarity": "R",
+    "color": "Maria",
+    "image": ""
+  },
+  "OP01-112": {
+    "name_en": "Page",
+    "name_jp": "",
+    "set": "OP01",
+    "rarity": "R",
+    "color": "One",
+    "image": ""
+  },
+  "OP01-113": {
+    "name_en": "Holdem",
+    "name_jp": "",
+    "set": "OP01",
+    "rarity": "C",
+    "color": "Purple",
+    "image": ""
+  },
+  "OP01-114": {
+    "name_en": "X.",
+    "name_jp": "",
+    "set": "OP01",
+    "rarity": "R",
+    "color": "Drake",
+    "image": ""
+  },
+  "OP01-115": {
+    "name_en": "Elephant's",
+    "name_jp": "",
+    "set": "OP01",
+    "rarity": "C",
+    "color": "Marchoo",
+    "image": ""
+  },
+  "OP01-116": {
+    "name_en": "Artificial",
+    "name_jp": "",
+    "set": "OP01",
+    "rarity": "UC",
+    "color": "Devil",
+    "image": ""
+  },
+  "OP01-117": {
+    "name_en": "Sheep's",
+    "name_jp": "",
+    "set": "OP01",
+    "rarity": "C",
+    "color": "Horn",
+    "image": ""
+  },
+  "OP01-118": {
+    "name_en": "Ulti-Mortar",
+    "name_jp": "",
+    "set": "OP01",
+    "rarity": "UC",
+    "color": "Purple",
+    "image": ""
+  },
+  "OP01-119": {
+    "name_en": "Thunder",
+    "name_jp": "",
+    "set": "OP01",
+    "rarity": "R",
+    "color": "Bagua",
+    "image": ""
+  },
+  "OP01-120": {
+    "name_en": "Shanks",
+    "name_jp": "",
+    "set": "OP01",
+    "rarity": "SEC",
+    "color": "Red",
+    "image": ""
+  },
+  "OP01-121": {
+    "name_en": "Yamato",
+    "name_jp": "",
+    "set": "OP01",
+    "rarity": "SEC",
+    "color": "Green",
+    "image": ""
+  }
+}
