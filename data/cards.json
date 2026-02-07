@@ -1,1 +1,11 @@
 
+{
+  "OP01-016": {
+    "name_en": "Nami",
+    "name_jp": "ナミ",
+    "set": "OP01",
+    "rarity": "SR",
+    "color": "Blue",
+    "image": "/assets/cards/OP01-016.jpg"
+  }
+}
