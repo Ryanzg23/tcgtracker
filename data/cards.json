@@ -1,980 +1,1787 @@
-
 {
-    "OP01-016": {
-    "name_en": "Nami",
-    "name_jp": "ナミ",
-    "set": "OP01",
-    "rarity": "SR",
-    "color": "Blue",
-    "image": "/assets/cards/OP01-016.jpg"
-  },
   "OP01-001": {
-    "name_en": "Roronoa",
+    "id": "OP01-001",
+    "name_en": "Roronoa Zoro",
     "name_jp": "",
     "set": "OP01",
     "rarity": "L",
-    "color": "Zoro",
-    "image": ""
-  },
-  "OP01-002": {
-    "name_en": "Trafalgar",
-    "name_jp": "",
-    "set": "OP01",
-    "rarity": "L",
-    "color": "Law",
-    "image": ""
-  },
-  "OP01-003": {
-    "name_en": "Monkey.D.Luffy",
-    "name_jp": "",
-    "set": "OP01",
-    "rarity": "L",
-    "color": "Red/Green",
-    "image": ""
+    "color": "Red",
+    "variants": [
+      {
+        "variant_id": "OP01-001-N",
+        "label": "Normal Art",
+        "image": ""
+      }
+    ]
   },
   "OP01-004": {
+    "id": "OP01-004",
     "name_en": "Usopp",
     "name_jp": "",
     "set": "OP01",
     "rarity": "R",
     "color": "Red",
-    "image": ""
+    "variants": [
+      {
+        "variant_id": "OP01-004-N",
+        "label": "Normal Art",
+        "image": ""
+      }
+    ]
   },
   "OP01-005": {
+    "id": "OP01-005",
     "name_en": "Uta",
     "name_jp": "",
     "set": "OP01",
     "rarity": "R",
     "color": "Red",
-    "image": ""
+    "variants": [
+      {
+        "variant_id": "OP01-005-N",
+        "label": "Normal Art",
+        "image": ""
+      }
+    ]
   },
   "OP01-006": {
+    "id": "OP01-006",
     "name_en": "Otama",
     "name_jp": "",
     "set": "OP01",
     "rarity": "UC",
     "color": "Red",
-    "image": ""
+    "variants": [
+      {
+        "variant_id": "OP01-006-N",
+        "label": "Normal Art",
+        "image": ""
+      }
+    ]
   },
   "OP01-007": {
+    "id": "OP01-007",
     "name_en": "Caribou",
     "name_jp": "",
     "set": "OP01",
     "rarity": "C",
     "color": "Red",
-    "image": ""
+    "variants": [
+      {
+        "variant_id": "OP01-007-N",
+        "label": "Normal Art",
+        "image": ""
+      }
+    ]
   },
   "OP01-008": {
+    "id": "OP01-008",
     "name_en": "Cavendish",
     "name_jp": "",
     "set": "OP01",
     "rarity": "C",
     "color": "Red",
-    "image": ""
+    "variants": [
+      {
+        "variant_id": "OP01-008-N",
+        "label": "Normal Art",
+        "image": ""
+      }
+    ]
   },
   "OP01-009": {
+    "id": "OP01-009",
     "name_en": "Carrot",
     "name_jp": "",
     "set": "OP01",
     "rarity": "C",
     "color": "Red",
-    "image": ""
+    "variants": [
+      {
+        "variant_id": "OP01-009-N",
+        "label": "Normal Art",
+        "image": ""
+      }
+    ]
   },
   "OP01-010": {
+    "id": "OP01-010",
     "name_en": "Komachiyo",
     "name_jp": "",
     "set": "OP01",
     "rarity": "C",
     "color": "Red",
-    "image": ""
+    "variants": [
+      {
+        "variant_id": "OP01-010-N",
+        "label": "Normal Art",
+        "image": ""
+      }
+    ]
   },
   "OP01-011": {
+    "id": "OP01-011",
     "name_en": "Gordon",
     "name_jp": "",
     "set": "OP01",
     "rarity": "UC",
     "color": "Red",
-    "image": ""
+    "variants": [
+      {
+        "variant_id": "OP01-011-N",
+        "label": "Normal Art",
+        "image": ""
+      }
+    ]
   },
   "OP01-012": {
+    "id": "OP01-012",
     "name_en": "Sai",
     "name_jp": "",
     "set": "OP01",
     "rarity": "C",
     "color": "Red",
-    "image": ""
+    "variants": [
+      {
+        "variant_id": "OP01-012-N",
+        "label": "Normal Art",
+        "image": ""
+      }
+    ]
   },
   "OP01-013": {
+    "id": "OP01-013",
     "name_en": "Sanji",
     "name_jp": "",
     "set": "OP01",
     "rarity": "R",
     "color": "Red",
-    "image": ""
+    "variants": [
+      {
+        "variant_id": "OP01-013-N",
+        "label": "Normal Art",
+        "image": ""
+      }
+    ]
   },
   "OP01-014": {
+    "id": "OP01-014",
     "name_en": "Jinbe",
     "name_jp": "",
     "set": "OP01",
     "rarity": "UC",
     "color": "Red",
-    "image": ""
+    "variants": [
+      {
+        "variant_id": "OP01-014-N",
+        "label": "Normal Art",
+        "image": ""
+      }
+    ]
   },
   "OP01-015": {
-    "name_en": "Tony",
+    "id": "OP01-015",
+    "name_en": "Tony Tony.Chopper",
     "name_jp": "",
     "set": "OP01",
     "rarity": "UC",
-    "color": "Tony.Chopper",
-    "image": ""
+    "color": "Red",
+    "variants": [
+      {
+        "variant_id": "OP01-015-N",
+        "label": "Normal Art",
+        "image": ""
+      }
+    ]
   },
   "OP01-016": {
+    "id": "OP01-016",
     "name_en": "Nami",
     "name_jp": "",
     "set": "OP01",
     "rarity": "R",
     "color": "Red",
-    "image": ""
+    "variants": [
+      {
+        "variant_id": "OP01-016-N",
+        "label": "Normal Art",
+        "image": ""
+      }
+    ]
   },
   "OP01-017": {
-    "name_en": "Nico",
+    "id": "OP01-017",
+    "name_en": "Nico Robin",
     "name_jp": "",
     "set": "OP01",
     "rarity": "R",
-    "color": "Robin",
-    "image": ""
+    "color": "Red",
+    "variants": [
+      {
+        "variant_id": "OP01-017-N",
+        "label": "Normal Art",
+        "image": ""
+      }
+    ]
   },
   "OP01-018": {
+    "id": "OP01-018",
     "name_en": "Hajrudin",
     "name_jp": "",
     "set": "OP01",
     "rarity": "C",
     "color": "Red",
-    "image": ""
+    "variants": [
+      {
+        "variant_id": "OP01-018-N",
+        "label": "Normal Art",
+        "image": ""
+      }
+    ]
   },
   "OP01-019": {
+    "id": "OP01-019",
     "name_en": "Bartolomeo",
     "name_jp": "",
     "set": "OP01",
     "rarity": "C",
     "color": "Red",
-    "image": ""
+    "variants": [
+      {
+        "variant_id": "OP01-019-N",
+        "label": "Normal Art",
+        "image": ""
+      }
+    ]
   },
   "OP01-020": {
+    "id": "OP01-020",
     "name_en": "Hyogoro",
     "name_jp": "",
     "set": "OP01",
     "rarity": "C",
     "color": "Red",
-    "image": ""
+    "variants": [
+      {
+        "variant_id": "OP01-020-N",
+        "label": "Normal Art",
+        "image": ""
+      }
+    ]
   },
   "OP01-021": {
+    "id": "OP01-021",
     "name_en": "Franky",
     "name_jp": "",
     "set": "OP01",
     "rarity": "UC",
     "color": "Red",
-    "image": ""
+    "variants": [
+      {
+        "variant_id": "OP01-021-N",
+        "label": "Normal Art",
+        "image": ""
+      }
+    ]
   },
   "OP01-022": {
+    "id": "OP01-022",
     "name_en": "Brook",
     "name_jp": "",
     "set": "OP01",
     "rarity": "UC",
     "color": "Red",
-    "image": ""
+    "variants": [
+      {
+        "variant_id": "OP01-022-N",
+        "label": "Normal Art",
+        "image": ""
+      }
+    ]
   },
   "OP01-023": {
+    "id": "OP01-023",
     "name_en": "Marco",
     "name_jp": "",
     "set": "OP01",
     "rarity": "C",
     "color": "Red",
-    "image": ""
+    "variants": [
+      {
+        "variant_id": "OP01-023-N",
+        "label": "Normal Art",
+        "image": ""
+      }
+    ]
   },
   "OP01-024": {
+    "id": "OP01-024",
     "name_en": "Monkey.D.Luffy",
     "name_jp": "",
     "set": "OP01",
     "rarity": "SR",
     "color": "Red",
-    "image": ""
+    "variants": [
+      {
+        "variant_id": "OP01-024-N",
+        "label": "Normal Art",
+        "image": ""
+      }
+    ]
   },
   "OP01-025": {
-    "name_en": "Roronoa",
+    "id": "OP01-025",
+    "name_en": "Roronoa Zoro",
     "name_jp": "",
     "set": "OP01",
     "rarity": "SR",
-    "color": "Zoro",
-    "image": ""
+    "color": "Red",
+    "variants": [
+      {
+        "variant_id": "OP01-025-N",
+        "label": "Normal Art",
+        "image": ""
+      }
+    ]
   },
   "OP01-026": {
-    "name_en": "Gum-Gum",
+    "id": "OP01-026",
+    "name_en": "Gum-Gum Fire-Fist Pistol",
     "name_jp": "",
     "set": "OP01",
     "rarity": "R",
-    "color": "Fire-Fist",
-    "image": ""
+    "color": "Red",
+    "variants": [
+      {
+        "variant_id": "OP01-026-N",
+        "label": "Normal Art",
+        "image": ""
+      }
+    ]
   },
   "OP01-027": {
-    "name_en": "Round",
+    "id": "OP01-027",
+    "name_en": "Round Table",
     "name_jp": "",
     "set": "OP01",
     "rarity": "C",
-    "color": "Table",
-    "image": ""
+    "color": "Red",
+    "variants": [
+      {
+        "variant_id": "OP01-027-N",
+        "label": "Normal Art",
+        "image": ""
+      }
+    ]
   },
   "OP01-028": {
-    "name_en": "Green",
+    "id": "OP01-028",
+    "name_en": "",
     "name_jp": "",
     "set": "OP01",
     "rarity": "C",
-    "color": "Star",
-    "image": ""
+    "color": "Green",
+    "variants": [
+      {
+        "variant_id": "OP01-028-N",
+        "label": "Normal Art",
+        "image": ""
+      }
+    ]
   },
   "OP01-029": {
-    "name_en": "Radical",
+    "id": "OP01-029",
+    "name_en": "Radical Beam!!",
     "name_jp": "",
     "set": "OP01",
     "rarity": "UC",
-    "color": "Beam!!",
-    "image": ""
+    "color": "Red",
+    "variants": [
+      {
+        "variant_id": "OP01-029-N",
+        "label": "Normal Art",
+        "image": ""
+      }
+    ]
   },
   "OP01-030": {
-    "name_en": "In",
+    "id": "OP01-030",
+    "name_en": "In Two Years!! At the Sabaody Archipelago!!",
     "name_jp": "",
     "set": "OP01",
     "rarity": "UC",
-    "color": "Two",
-    "image": ""
+    "color": "Red",
+    "variants": [
+      {
+        "variant_id": "OP01-030-N",
+        "label": "Normal Art",
+        "image": ""
+      }
+    ]
   },
   "OP01-031": {
-    "name_en": "Kouzuki",
+    "id": "OP01-031",
+    "name_en": "Kouzuki Oden",
     "name_jp": "",
     "set": "OP01",
     "rarity": "L",
-    "color": "Oden",
-    "image": ""
+    "color": "Green",
+    "variants": [
+      {
+        "variant_id": "OP01-031-N",
+        "label": "Normal Art",
+        "image": ""
+      }
+    ]
   },
   "OP01-032": {
-    "name_en": "Ashura",
+    "id": "OP01-032",
+    "name_en": "Ashura Doji",
     "name_jp": "",
     "set": "OP01",
     "rarity": "UC",
-    "color": "Doji",
-    "image": ""
+    "color": "Green",
+    "variants": [
+      {
+        "variant_id": "OP01-032-N",
+        "label": "Normal Art",
+        "image": ""
+      }
+    ]
   },
   "OP01-033": {
+    "id": "OP01-033",
     "name_en": "Izo",
     "name_jp": "",
     "set": "OP01",
     "rarity": "UC",
     "color": "Green",
-    "image": ""
+    "variants": [
+      {
+        "variant_id": "OP01-033-N",
+        "label": "Normal Art",
+        "image": ""
+      }
+    ]
   },
   "OP01-034": {
+    "id": "OP01-034",
     "name_en": "Dogstorm",
     "name_jp": "",
     "set": "OP01",
     "rarity": "",
     "color": "Green",
-    "image": ""
+    "variants": [
+      {
+        "variant_id": "OP01-034-N",
+        "label": "Normal Art",
+        "image": ""
+      }
+    ]
   },
   "OP01-035": {
+    "id": "OP01-035",
     "name_en": "Okiku",
     "name_jp": "",
     "set": "OP01",
     "rarity": "R",
     "color": "Green",
-    "image": ""
+    "variants": [
+      {
+        "variant_id": "OP01-035-N",
+        "label": "Normal Art",
+        "image": ""
+      }
+    ]
   },
   "OP01-036": {
+    "id": "OP01-036",
     "name_en": "Otsuru",
     "name_jp": "",
     "set": "OP01",
     "rarity": "C",
     "color": "Green",
-    "image": ""
+    "variants": [
+      {
+        "variant_id": "OP01-036-N",
+        "label": "Normal Art",
+        "image": ""
+      }
+    ]
   },
   "OP01-037": {
+    "id": "OP01-037",
     "name_en": "Kawamatsu",
     "name_jp": "",
     "set": "OP01",
     "rarity": "",
     "color": "Green",
-    "image": ""
+    "variants": [
+      {
+        "variant_id": "OP01-037-N",
+        "label": "Normal Art",
+        "image": ""
+      }
+    ]
   },
   "OP01-038": {
+    "id": "OP01-038",
     "name_en": "Kanjuro",
     "name_jp": "",
     "set": "OP01",
     "rarity": "C",
     "color": "Green",
-    "image": ""
+    "variants": [
+      {
+        "variant_id": "OP01-038-N",
+        "label": "Normal Art",
+        "image": ""
+      }
+    ]
   },
   "OP01-039": {
+    "id": "OP01-039",
     "name_en": "Killer",
     "name_jp": "",
     "set": "OP01",
     "rarity": "UC",
     "color": "Green",
-    "image": ""
+    "variants": [
+      {
+        "variant_id": "OP01-039-N",
+        "label": "Normal Art",
+        "image": ""
+      }
+    ]
   },
   "OP01-040": {
+    "id": "OP01-040",
     "name_en": "Kin'emon",
     "name_jp": "",
     "set": "OP01",
     "rarity": "SR",
     "color": "Green",
-    "image": ""
+    "variants": [
+      {
+        "variant_id": "OP01-040-N",
+        "label": "Normal Art",
+        "image": ""
+      }
+    ]
   },
   "OP01-041": {
-    "name_en": "Kouzuki",
+    "id": "OP01-041",
+    "name_en": "Kouzuki Momonosuke",
     "name_jp": "",
     "set": "OP01",
     "rarity": "R",
-    "color": "Momonosuke",
-    "image": ""
+    "color": "Green",
+    "variants": [
+      {
+        "variant_id": "OP01-041-N",
+        "label": "Normal Art",
+        "image": ""
+      }
+    ]
   },
   "OP01-042": {
+    "id": "OP01-042",
     "name_en": "Komurasaki",
     "name_jp": "",
     "set": "OP01",
     "rarity": "UC",
     "color": "Green",
-    "image": ""
+    "variants": [
+      {
+        "variant_id": "OP01-042-N",
+        "label": "Normal Art",
+        "image": ""
+      }
+    ]
   },
   "OP01-043": {
+    "id": "OP01-043",
     "name_en": "Shinobu",
     "name_jp": "",
     "set": "OP01",
     "rarity": "C",
     "color": "Green",
-    "image": ""
+    "variants": [
+      {
+        "variant_id": "OP01-043-N",
+        "label": "Normal Art",
+        "image": ""
+      }
+    ]
   },
   "OP01-044": {
+    "id": "OP01-044",
     "name_en": "Shachi",
     "name_jp": "",
     "set": "OP01",
     "rarity": "C",
     "color": "Green",
-    "image": ""
+    "variants": [
+      {
+        "variant_id": "OP01-044-N",
+        "label": "Normal Art",
+        "image": ""
+      }
+    ]
   },
   "OP01-045": {
-    "name_en": "Jean",
+    "id": "OP01-045",
+    "name_en": "Jean Bart",
     "name_jp": "",
     "set": "OP01",
     "rarity": "C",
-    "color": "Bart",
-    "image": ""
+    "color": "Green",
+    "variants": [
+      {
+        "variant_id": "OP01-045-N",
+        "label": "Normal Art",
+        "image": ""
+      }
+    ]
   },
   "OP01-046": {
+    "id": "OP01-046",
     "name_en": "Denjiro",
     "name_jp": "",
     "set": "OP01",
     "rarity": "R",
     "color": "Green",
-    "image": ""
+    "variants": [
+      {
+        "variant_id": "OP01-046-N",
+        "label": "Normal Art",
+        "image": ""
+      }
+    ]
   },
   "OP01-047": {
-    "name_en": "Trafalgar",
+    "id": "OP01-047",
+    "name_en": "Trafalgar Law",
     "name_jp": "",
     "set": "OP01",
     "rarity": "SR",
-    "color": "Law",
-    "image": ""
+    "color": "Green",
+    "variants": [
+      {
+        "variant_id": "OP01-047-N",
+        "label": "Normal Art",
+        "image": ""
+      }
+    ]
   },
   "OP01-048": {
-    "name_en": "Cat",
+    "id": "OP01-048",
+    "name_en": "Cat Viper",
     "name_jp": "",
     "set": "OP01",
     "rarity": "C",
-    "color": "Viper",
-    "image": ""
+    "color": "Green",
+    "variants": [
+      {
+        "variant_id": "OP01-048-N",
+        "label": "Normal Art",
+        "image": ""
+      }
+    ]
   },
   "OP01-049": {
+    "id": "OP01-049",
     "name_en": "Bepo",
     "name_jp": "",
     "set": "OP01",
     "rarity": "R",
     "color": "Green",
-    "image": ""
+    "variants": [
+      {
+        "variant_id": "OP01-049-N",
+        "label": "Normal Art",
+        "image": ""
+      }
+    ]
   },
   "OP01-050": {
+    "id": "OP01-050",
     "name_en": "Penguin",
     "name_jp": "",
     "set": "OP01",
     "rarity": "C",
     "color": "Green",
-    "image": ""
+    "variants": [
+      {
+        "variant_id": "OP01-050-N",
+        "label": "Normal Art",
+        "image": ""
+      }
+    ]
   },
   "OP01-051": {
-    "name_en": "Eustass",
+    "id": "OP01-051",
+    "name_en": "Eustass Kid",
     "name_jp": "",
     "set": "OP01",
     "rarity": "SR",
-    "color": "Kid",
-    "image": ""
+    "color": "Green",
+    "variants": [
+      {
+        "variant_id": "OP01-051-N",
+        "label": "Normal Art",
+        "image": ""
+      }
+    ]
   },
   "OP01-052": {
+    "id": "OP01-052",
     "name_en": "Raizo",
     "name_jp": "",
     "set": "OP01",
     "rarity": "UC",
     "color": "Green",
-    "image": ""
+    "variants": [
+      {
+        "variant_id": "OP01-052-N",
+        "label": "Normal Art",
+        "image": ""
+      }
+    ]
   },
   "OP01-053": {
+    "id": "OP01-053",
     "name_en": "Wire",
     "name_jp": "",
     "set": "OP01",
     "rarity": "C",
     "color": "Green",
-    "image": ""
+    "variants": [
+      {
+        "variant_id": "OP01-053-N",
+        "label": "Normal Art",
+        "image": ""
+      }
+    ]
   },
   "OP01-054": {
+    "id": "OP01-054",
     "name_en": "X.Drake",
     "name_jp": "",
     "set": "OP01",
     "rarity": "R",
     "color": "Green",
-    "image": ""
+    "variants": [
+      {
+        "variant_id": "OP01-054-N",
+        "label": "Normal Art",
+        "image": ""
+      }
+    ]
   },
   "OP01-055": {
-    "name_en": "You",
+    "id": "OP01-055",
+    "name_en": "You Can Be My Samurai!!",
     "name_jp": "",
     "set": "OP01",
     "rarity": "C",
-    "color": "Can",
-    "image": ""
-
+    "color": "Green",
+    "variants": [
+      {
+        "variant_id": "OP01-055-N",
+        "label": "Normal Art",
+        "image": ""
+      }
+    ]
   },
   "OP01-056": {
-    "name_en": "Demon",
+    "id": "OP01-056",
+    "name_en": "Demon Face",
     "name_jp": "",
     "set": "OP01",
     "rarity": "UC",
-    "color": "Face",
-    "image": ""
+    "color": "Green",
+    "variants": [
+      {
+        "variant_id": "OP01-056-N",
+        "label": "Normal Art",
+        "image": ""
+      }
+    ]
   },
   "OP01-057": {
-    "name_en": "Paradise",
+    "id": "OP01-057",
+    "name_en": "Paradise Waterfall",
     "name_jp": "",
     "set": "OP01",
     "rarity": "UC",
-    "color": "Waterfall",
-    "image": ""
+    "color": "Green",
+    "variants": [
+      {
+        "variant_id": "OP01-057-N",
+        "label": "Normal Art",
+        "image": ""
+      }
+    ]
   },
   "OP01-058": {
-    "name_en": "Punk",
+    "id": "OP01-058",
+    "name_en": "Punk Gibson",
     "name_jp": "",
     "set": "OP01",
     "rarity": "R",
-    "color": "Gibson",
-    "image": ""
+    "color": "Green",
+    "variants": [
+      {
+        "variant_id": "OP01-058-N",
+        "label": "Normal Art",
+        "image": ""
+      }
+    ]
   },
   "OP01-059": {
+    "id": "OP01-059",
     "name_en": "BE-BENG!!",
     "name_jp": "",
     "set": "OP01",
     "rarity": "C",
     "color": "Green",
-    "image": ""
+    "variants": [
+      {
+        "variant_id": "OP01-059-N",
+        "label": "Normal Art",
+        "image": ""
+      }
+    ]
   },
   "OP01-060": {
-    "name_en": "Donquixote",
+    "id": "OP01-060",
+    "name_en": "Donquixote Doflamingo",
     "name_jp": "",
     "set": "OP01",
     "rarity": "L",
-    "color": "Doflamingo",
-    "image": ""
+    "color": "Blue",
+    "variants": [
+      {
+        "variant_id": "OP01-060-N",
+        "label": "Normal Art",
+        "image": ""
+      }
+    ]
   },
   "OP01-061": {
+    "id": "OP01-061",
     "name_en": "Kaido",
     "name_jp": "",
     "set": "OP01",
     "rarity": "L",
     "color": "Blue",
-    "image": ""
+    "variants": [
+      {
+        "variant_id": "OP01-061-N",
+        "label": "Normal Art",
+        "image": ""
+      }
+    ]
   },
   "OP01-062": {
+    "id": "OP01-062",
     "name_en": "Crocodile",
     "name_jp": "",
     "set": "OP01",
     "rarity": "L",
     "color": "Blue",
-    "image": ""
+    "variants": [
+      {
+        "variant_id": "OP01-062-N",
+        "label": "Normal Art",
+        "image": ""
+      }
+    ]
   },
   "OP01-063": {
+    "id": "OP01-063",
     "name_en": "Arlong",
     "name_jp": "",
     "set": "OP01",
     "rarity": "UC",
     "color": "Blue",
-    "image": ""
+    "variants": [
+      {
+        "variant_id": "OP01-063-N",
+        "label": "Normal Art",
+        "image": ""
+      }
+    ]
   },
   "OP01-064": {
+    "id": "OP01-064",
     "name_en": "Alvida",
     "name_jp": "",
     "set": "OP01",
     "rarity": "C",
     "color": "Blue",
-    "image": ""
+    "variants": [
+      {
+        "variant_id": "OP01-064-N",
+        "label": "Normal Art",
+        "image": ""
+      }
+    ]
   },
   "OP01-065": {
+    "id": "OP01-065",
     "name_en": "Vergo",
     "name_jp": "",
     "set": "OP01",
     "rarity": "C",
     "color": "Blue",
-    "image": ""
+    "variants": [
+      {
+        "variant_id": "OP01-065-N",
+        "label": "Normal Art",
+        "image": ""
+      }
+    ]
   },
   "OP01-066": {
+    "id": "OP01-066",
     "name_en": "Krieg",
     "name_jp": "",
     "set": "OP01",
     "rarity": "C",
     "color": "Blue",
-    "image": ""
+    "variants": [
+      {
+        "variant_id": "OP01-066-N",
+        "label": "Normal Art",
+        "image": ""
+      }
+    ]
   },
   "OP01-067": {
+    "id": "OP01-067",
     "name_en": "Crocodile",
     "name_jp": "",
     "set": "OP01",
     "rarity": "SR",
     "color": "Blue",
-    "image": ""
+    "variants": [
+      {
+        "variant_id": "OP01-067-N",
+        "label": "Normal Art",
+        "image": ""
+      }
+    ]
   },
   "OP01-068": {
-    "name_en": "Gecko",
+    "id": "OP01-068",
+    "name_en": "Gecko Moria",
     "name_jp": "",
     "set": "OP01",
     "rarity": "R",
-    "color": "Moria",
-    "image": ""
+    "color": "Blue",
+    "variants": [
+      {
+        "variant_id": "OP01-068-N",
+        "label": "Normal Art",
+        "image": ""
+      }
+    ]
   },
   "OP01-069": {
-    "name_en": "Caesar",
+    "id": "OP01-069",
+    "name_en": "Caesar Clown",
     "name_jp": "",
     "set": "OP01",
     "rarity": "R",
-    "color": "Clown",
-    "image": ""
+    "color": "Blue",
+    "variants": [
+      {
+        "variant_id": "OP01-069-N",
+        "label": "Normal Art",
+        "image": ""
+      }
+    ]
   },
   "OP01-070": {
-    "name_en": "Dracule",
+    "id": "OP01-070",
+    "name_en": "Dracule Mihawk",
     "name_jp": "",
     "set": "OP01",
     "rarity": "SR",
-    "color": "Mihawk",
-    "image": ""
+    "color": "Blue",
+    "variants": [
+      {
+        "variant_id": "OP01-070-N",
+        "label": "Normal Art",
+        "image": ""
+      }
+    ]
   },
   "OP01-071": {
+    "id": "OP01-071",
     "name_en": "Jinbe",
     "name_jp": "",
     "set": "OP01",
     "rarity": "R",
     "color": "Blue",
-    "image": ""
+    "variants": [
+      {
+        "variant_id": "OP01-071-N",
+        "label": "Normal Art",
+        "image": ""
+      }
+    ]
   },
   "OP01-072": {
+    "id": "OP01-072",
     "name_en": "Smiley",
     "name_jp": "",
     "set": "OP01",
     "rarity": "C",
     "color": "Blue",
-    "image": ""
+    "variants": [
+      {
+        "variant_id": "OP01-072-N",
+        "label": "Normal Art",
+        "image": ""
+      }
+    ]
   },
   "OP01-073": {
-    "name_en": "Donquixote",
+    "id": "OP01-073",
+    "name_en": "Donquixote Doflamingo",
     "name_jp": "",
     "set": "OP01",
     "rarity": "R",
-    "color": "Doflamingo",
-    "image": ""
+    "color": "Blue",
+    "variants": [
+      {
+        "variant_id": "OP01-073-N",
+        "label": "Normal Art",
+        "image": ""
+      }
+    ]
   },
   "OP01-074": {
-    "name_en": "Bartholomew",
+    "id": "OP01-074",
+    "name_en": "Bartholomew Kuma",
     "name_jp": "",
     "set": "OP01",
     "rarity": "R",
-    "color": "Kuma",
-    "image": ""
+    "color": "Blue",
+    "variants": [
+      {
+        "variant_id": "OP01-074-N",
+        "label": "Normal Art",
+        "image": ""
+      }
+    ]
   },
   "OP01-075": {
+    "id": "OP01-075",
     "name_en": "Pacifista",
     "name_jp": "",
     "set": "OP01",
     "rarity": "C",
     "color": "Blue",
-    "image": ""
+    "variants": [
+      {
+        "variant_id": "OP01-075-N",
+        "label": "Normal Art",
+        "image": ""
+      }
+    ]
   },
   "OP01-076": {
+    "id": "OP01-076",
     "name_en": "Bellamy",
     "name_jp": "",
     "set": "OP01",
     "rarity": "C",
     "color": "Blue",
-    "image": ""
+    "variants": [
+      {
+        "variant_id": "OP01-076-N",
+        "label": "Normal Art",
+        "image": ""
+      }
+    ]
   },
   "OP01-077": {
+    "id": "OP01-077",
     "name_en": "Perona",
     "name_jp": "",
     "set": "OP01",
     "rarity": "UC",
     "color": "Blue",
-    "image": ""
+    "variants": [
+      {
+        "variant_id": "OP01-077-N",
+        "label": "Normal Art",
+        "image": ""
+      }
+    ]
   },
   "OP01-078": {
-    "name_en": "Boa",
+    "id": "OP01-078",
+    "name_en": "Boa Hancock",
     "name_jp": "",
     "set": "OP01",
     "rarity": "SR",
-    "color": "Hancock",
-    "image": ""
+    "color": "Blue",
+    "variants": [
+      {
+        "variant_id": "OP01-078-N",
+        "label": "Normal Art",
+        "image": ""
+      }
+    ]
   },
   "OP01-079": {
-    "name_en": "Ms.",
+    "id": "OP01-079",
+    "name_en": "Ms. All-Sunday",
     "name_jp": "",
     "set": "OP01",
     "rarity": "R",
-    "color": "All-Sunday",
-    "image": ""
+    "color": "Blue",
+    "variants": [
+      {
+        "variant_id": "OP01-079-N",
+        "label": "Normal Art",
+        "image": ""
+      }
+    ]
   },
   "OP01-080": {
-    "name_en": "Ms.",
+    "id": "OP01-080",
+    "name_en": "Ms. Doublefinger",
     "name_jp": "",
     "set": "OP01",
     "rarity": "C",
-    "color": "Doublefinger",
-    "image": ""
+    "color": "Blue",
+    "variants": [
+      {
+        "variant_id": "OP01-080-N",
+        "label": "Normal Art",
+        "image": ""
+      }
+    ]
   },
   "OP01-081": {
+    "id": "OP01-081",
     "name_en": "Mocha",
     "name_jp": "",
     "set": "OP01",
     "rarity": "C",
     "color": "Blue",
-    "image": ""
+    "variants": [
+      {
+        "variant_id": "OP01-081-N",
+        "label": "Normal Art",
+        "image": ""
+      }
+    ]
   },
   "OP01-082": {
+    "id": "OP01-082",
     "name_en": "Monet",
     "name_jp": "",
     "set": "OP01",
     "rarity": "C",
     "color": "Blue",
-    "image": ""
+    "variants": [
+      {
+        "variant_id": "OP01-082-N",
+        "label": "Normal Art",
+        "image": ""
+      }
+    ]
   },
   "OP01-083": {
-    "name_en": "Mr.1",
+    "id": "OP01-083",
+    "name_en": "Mr.1 (Daz Bones)",
     "name_jp": "",
     "set": "OP01",
     "rarity": "UC",
-    "color": "(Daz",
-    "image": ""
+    "color": "Blue",
+    "variants": [
+      {
+        "variant_id": "OP01-083-N",
+        "label": "Normal Art",
+        "image": ""
+      }
+    ]
   },
   "OP01-084": {
-    "name_en": "Mr.",
+    "id": "OP01-084",
+    "name_en": "Mr. 2 Bon Clay",
     "name_jp": "",
     "set": "OP01",
     "rarity": "UC",
-    "color": "2",
-    "image": ""
+    "color": "Blue",
+    "variants": [
+      {
+        "variant_id": "OP01-084-N",
+        "label": "Normal Art",
+        "image": ""
+      }
+    ]
   },
   "OP01-085": {
-    "name_en": "Mr.3",
+    "id": "OP01-085",
+    "name_en": "Mr.3 (Galdino)",
     "name_jp": "",
     "set": "OP01",
     "rarity": "UC",
-    "color": "(Galdino)",
-    "image": ""
+    "color": "Blue",
+    "variants": [
+      {
+        "variant_id": "OP01-085-N",
+        "label": "Normal Art",
+        "image": ""
+      }
+    ]
   },
   "OP01-086": {
+    "id": "OP01-086",
     "name_en": "Overheat",
     "name_jp": "",
     "set": "OP01",
     "rarity": "R",
     "color": "Blue",
-    "image": ""
+    "variants": [
+      {
+        "variant_id": "OP01-086-N",
+        "label": "Normal Art",
+        "image": ""
+      }
+    ]
   },
   "OP01-087": {
-    "name_en": "Officer",
+    "id": "OP01-087",
+    "name_en": "Officer Agents",
     "name_jp": "",
     "set": "OP01",
     "rarity": "C",
-    "color": "Agents",
-    "image": ""
+    "color": "Blue",
+    "variants": [
+      {
+        "variant_id": "OP01-087-N",
+        "label": "Normal Art",
+        "image": ""
+      }
+    ]
   },
   "OP01-088": {
-    "name_en": "Desert",
+    "id": "OP01-088",
+    "name_en": "Desert Spada",
     "name_jp": "",
     "set": "OP01",
     "rarity": "UC",
-    "color": "Spada",
-    "image": ""
+    "color": "Blue",
+    "variants": [
+      {
+        "variant_id": "OP01-088-N",
+        "label": "Normal Art",
+        "image": ""
+      }
+    ]
   },
   "OP01-089": {
-    "name_en": "Crescent",
+    "id": "OP01-089",
+    "name_en": "Crescent Cutlass",
     "name_jp": "",
     "set": "OP01",
     "rarity": "C",
-    "color": "Cutlass",
-    "image": ""
+    "color": "Blue",
+    "variants": [
+      {
+        "variant_id": "OP01-089-N",
+        "label": "Normal Art",
+        "image": ""
+      }
+    ]
   },
   "OP01-090": {
-    "name_en": "Baroque",
+    "id": "OP01-090",
+    "name_en": "Baroque Works",
     "name_jp": "",
     "set": "OP01",
     "rarity": "UC",
-    "color": "Works",
-    "image": ""
+    "color": "Blue",
+    "variants": [
+      {
+        "variant_id": "OP01-090-N",
+        "label": "Normal Art",
+        "image": ""
+      }
+    ]
   },
   "OP01-091": {
+    "id": "OP01-091",
     "name_en": "King",
     "name_jp": "",
     "set": "OP01",
     "rarity": "L",
     "color": "Purple",
-    "image": ""
+    "variants": [
+      {
+        "variant_id": "OP01-091-N",
+        "label": "Normal Art",
+        "image": ""
+      }
+    ]
   },
   "OP01-092": {
+    "id": "OP01-092",
     "name_en": "Urashima",
     "name_jp": "",
     "set": "OP01",
     "rarity": "C",
     "color": "Purple",
-    "image": ""
+    "variants": [
+      {
+        "variant_id": "OP01-092-N",
+        "label": "Normal Art",
+        "image": ""
+      }
+    ]
   },
   "OP01-093": {
+    "id": "OP01-093",
     "name_en": "Ulti",
     "name_jp": "",
     "set": "OP01",
     "rarity": "R",
     "color": "Purple",
-    "image": ""
+    "variants": [
+      {
+        "variant_id": "OP01-093-N",
+        "label": "Normal Art",
+        "image": ""
+      }
+    ]
   },
   "OP01-094": {
+    "id": "OP01-094",
     "name_en": "Kaido",
     "name_jp": "",
     "set": "OP01",
     "rarity": "SR",
     "color": "Purple",
-    "image": ""
+    "variants": [
+      {
+        "variant_id": "OP01-094-N",
+        "label": "Normal Art",
+        "image": ""
+      }
+    ]
   },
   "OP01-095": {
+    "id": "OP01-095",
     "name_en": "Kyoushirou",
     "name_jp": "",
     "set": "OP01",
     "rarity": "UC",
     "color": "Purple",
-    "image": ""
+    "variants": [
+      {
+        "variant_id": "OP01-095-N",
+        "label": "Normal Art",
+        "image": ""
+      }
+    ]
   },
   "OP01-096": {
+    "id": "OP01-096",
     "name_en": "King",
     "name_jp": "",
     "set": "OP01",
     "rarity": "SR",
     "color": "Purple",
-    "image": ""
+    "variants": [
+      {
+        "variant_id": "OP01-096-N",
+        "label": "Normal Art",
+        "image": ""
+      }
+    ]
   },
   "OP01-097": {
+    "id": "OP01-097",
     "name_en": "Queen",
     "name_jp": "",
     "set": "OP01",
     "rarity": "R",
     "color": "Purple",
-    "image": ""
+    "variants": [
+      {
+        "variant_id": "OP01-097-N",
+        "label": "Normal Art",
+        "image": ""
+      }
+    ]
   },
   "OP01-098": {
-    "name_en": "Kurozumi",
+    "id": "OP01-098",
+    "name_en": "Kurozumi Orochi",
     "name_jp": "",
     "set": "OP01",
     "rarity": "UC",
-    "color": "Orochi",
-    "image": ""
+    "color": "Purple",
+    "variants": [
+      {
+        "variant_id": "OP01-098-N",
+        "label": "Normal Art",
+        "image": ""
+      }
+    ]
   },
   "OP01-099": {
-    "name_en": "Kurozumi",
+    "id": "OP01-099",
+    "name_en": "Kurozumi Semimaru",
     "name_jp": "",
     "set": "OP01",
     "rarity": "C",
-    "color": "Semimaru",
-    "image": ""
+    "color": "Purple",
+    "variants": [
+      {
+        "variant_id": "OP01-099-N",
+        "label": "Normal Art",
+        "image": ""
+      }
+    ]
   },
   "OP01-100": {
-    "name_en": "Kurozumi",
+    "id": "OP01-100",
+    "name_en": "Kurozumi Higurashi",
     "name_jp": "",
     "set": "OP01",
     "rarity": "C",
-    "color": "Higurashi",
-    "image": ""
+    "color": "Purple",
+    "variants": [
+      {
+        "variant_id": "OP01-100-N",
+        "label": "Normal Art",
+        "image": ""
+      }
+    ]
   },
   "OP01-101": {
+    "id": "OP01-101",
     "name_en": "Sasaki",
     "name_jp": "",
     "set": "OP01",
     "rarity": "UC",
     "color": "Purple",
-    "image": ""
+    "variants": [
+      {
+        "variant_id": "OP01-101-N",
+        "label": "Normal Art",
+        "image": ""
+      }
+    ]
   },
   "OP01-102": {
+    "id": "OP01-102",
     "name_en": "Jack",
     "name_jp": "",
     "set": "OP01",
     "rarity": "R",
     "color": "Purple",
-    "image": ""
+    "variants": [
+      {
+        "variant_id": "OP01-102-N",
+        "label": "Normal Art",
+        "image": ""
+      }
+    ]
   },
   "OP01-103": {
-    "name_en": "Scratchmen",
+    "id": "OP01-103",
+    "name_en": "Scratchmen Apoo",
     "name_jp": "",
     "set": "OP01",
     "rarity": "C",
-    "color": "Apoo",
-    "image": ""
+    "color": "Purple",
+    "variants": [
+      {
+        "variant_id": "OP01-103-N",
+        "label": "Normal Art",
+        "image": ""
+      }
+    ]
   },
   "OP01-104": {
+    "id": "OP01-104",
     "name_en": "Speed",
     "name_jp": "",
     "set": "OP01",
     "rarity": "C",
     "color": "Purple",
-    "image": ""
+    "variants": [
+      {
+        "variant_id": "OP01-104-N",
+        "label": "Normal Art",
+        "image": ""
+      }
+    ]
   },
   "OP01-105": {
-    "name_en": "Bao",
+    "id": "OP01-105",
+    "name_en": "Bao Huang",
     "name_jp": "",
     "set": "OP01",
     "rarity": "C",
-    "color": "Huang",
-    "image": ""
+    "color": "Purple",
+    "variants": [
+      {
+        "variant_id": "OP01-105-N",
+        "label": "Normal Art",
+        "image": ""
+      }
+    ]
   },
   "OP01-106": {
-    "name_en": "Basil",
+    "id": "OP01-106",
+    "name_en": "Basil Hawkins",
     "name_jp": "",
     "set": "OP01",
     "rarity": "UC",
-    "color": "Hawkins",
-    "image": ""
+    "color": "Purple",
+    "variants": [
+      {
+        "variant_id": "OP01-106-N",
+        "label": "Normal Art",
+        "image": ""
+      }
+    ]
   },
   "OP01-107": {
+    "id": "OP01-107",
     "name_en": "Babanuki",
     "name_jp": "",
     "set": "OP01",
     "rarity": "C",
     "color": "Purple",
-    "image": ""
+    "variants": [
+      {
+        "variant_id": "OP01-107-N",
+        "label": "Normal Art",
+        "image": ""
+      }
+    ]
   },
   "OP01-108": {
-    "name_en": "Hitokiri",
+    "id": "OP01-108",
+    "name_en": "Hitokiri Kamazo",
     "name_jp": "",
     "set": "OP01",
     "rarity": "UC",
-    "color": "Kamazo",
-    "image": ""
+    "color": "Purple",
+    "variants": [
+      {
+        "variant_id": "OP01-108-N",
+        "label": "Normal Art",
+        "image": ""
+      }
+    ]
   },
   "OP01-109": {
+    "id": "OP01-109",
     "name_en": "Who's-Who",
     "name_jp": "",
     "set": "OP01",
     "rarity": "UC",
     "color": "Purple",
-    "image": ""
+    "variants": [
+      {
+        "variant_id": "OP01-109-N",
+        "label": "Normal Art",
+        "image": ""
+      }
+    ]
   },
   "OP01-110": {
+    "id": "OP01-110",
     "name_en": "Fukurokuju",
     "name_jp": "",
     "set": "OP01",
     "rarity": "C",
     "color": "Purple",
-    "image": ""
+    "variants": [
+      {
+        "variant_id": "OP01-110-N",
+        "label": "Normal Art",
+        "image": ""
+      }
+    ]
   },
   "OP01-111": {
-    "name_en": "Black",
+    "id": "OP01-111",
+    "name_en": "",
     "name_jp": "",
     "set": "OP01",
     "rarity": "R",
-    "color": "Maria",
-    "image": ""
+    "color": "Black",
+    "variants": [
+      {
+        "variant_id": "OP01-111-N",
+        "label": "Normal Art",
+        "image": ""
+      }
+    ]
   },
   "OP01-112": {
-    "name_en": "Page",
+    "id": "OP01-112",
+    "name_en": "Page One",
     "name_jp": "",
     "set": "OP01",
     "rarity": "R",
-    "color": "One",
-    "image": ""
+    "color": "Purple",
+    "variants": [
+      {
+        "variant_id": "OP01-112-N",
+        "label": "Normal Art",
+        "image": ""
+      }
+    ]
   },
   "OP01-113": {
+    "id": "OP01-113",
     "name_en": "Holdem",
     "name_jp": "",
     "set": "OP01",
     "rarity": "C",
     "color": "Purple",
-    "image": ""
+    "variants": [
+      {
+        "variant_id": "OP01-113-N",
+        "label": "Normal Art",
+        "image": ""
+      }
+    ]
   },
   "OP01-114": {
-    "name_en": "X.",
+    "id": "OP01-114",
+    "name_en": "X. Drake",
     "name_jp": "",
     "set": "OP01",
     "rarity": "R",
-    "color": "Drake",
-    "image": ""
+    "color": "Purple",
+    "variants": [
+      {
+        "variant_id": "OP01-114-N",
+        "label": "Normal Art",
+        "image": ""
+      }
+    ]
   },
   "OP01-115": {
-    "name_en": "Elephant's",
+    "id": "OP01-115",
+    "name_en": "Elephant's Marchoo",
     "name_jp": "",
     "set": "OP01",
     "rarity": "C",
-    "color": "Marchoo",
-    "image": ""
+    "color": "Purple",
+    "variants": [
+      {
+        "variant_id": "OP01-115-N",
+        "label": "Normal Art",
+        "image": ""
+      }
+    ]
   },
   "OP01-116": {
-    "name_en": "Artificial",
+    "id": "OP01-116",
+    "name_en": "Artificial Devil Fruit SMILE",
     "name_jp": "",
     "set": "OP01",
     "rarity": "UC",
-    "color": "Devil",
-    "image": ""
+    "color": "Purple",
+    "variants": [
+      {
+        "variant_id": "OP01-116-N",
+        "label": "Normal Art",
+        "image": ""
+      }
+    ]
   },
   "OP01-117": {
-    "name_en": "Sheep's",
+    "id": "OP01-117",
+    "name_en": "Sheep's Horn",
     "name_jp": "",
     "set": "OP01",
     "rarity": "C",
-    "color": "Horn",
-    "image": ""
+    "color": "Purple",
+    "variants": [
+      {
+        "variant_id": "OP01-117-N",
+        "label": "Normal Art",
+        "image": ""
+      }
+    ]
   },
   "OP01-118": {
+    "id": "OP01-118",
     "name_en": "Ulti-Mortar",
     "name_jp": "",
     "set": "OP01",
     "rarity": "UC",
     "color": "Purple",
-    "image": ""
+    "variants": [
+      {
+        "variant_id": "OP01-118-N",
+        "label": "Normal Art",
+        "image": ""
+      }
+    ]
   },
   "OP01-119": {
-    "name_en": "Thunder",
+    "id": "OP01-119",
+    "name_en": "Thunder Bagua",
     "name_jp": "",
     "set": "OP01",
     "rarity": "R",
-    "color": "Bagua",
-    "image": ""
+    "color": "Purple",
+    "variants": [
+      {
+        "variant_id": "OP01-119-N",
+        "label": "Normal Art",
+        "image": ""
+      }
+    ]
   },
   "OP01-120": {
+    "id": "OP01-120",
     "name_en": "Shanks",
     "name_jp": "",
     "set": "OP01",
     "rarity": "SEC",
     "color": "Red",
-    "image": ""
+    "variants": [
+      {
+        "variant_id": "OP01-120-N",
+        "label": "Normal Art",
+        "image": ""
+      }
+    ]
   },
   "OP01-121": {
+    "id": "OP01-121",
     "name_en": "Yamato",
     "name_jp": "",
     "set": "OP01",
     "rarity": "SEC",
     "color": "Green",
-    "image": ""
+    "variants": [
+      {
+        "variant_id": "OP01-121-N",
+        "label": "Normal Art",
+        "image": ""
+      }
+    ]
   }
 }
