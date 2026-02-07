@@ -31,3 +31,27 @@ button {
   border-radius: 6px;
   margin-bottom: 8px;
 }
+.card-img {
+  width: 50px;
+  border-radius: 4px;
+}
+
+.card-info {
+  flex: 1;
+  margin-left: 10px;
+}
+
+.card-info small {
+  opacity: 0.7;
+  font-size: 12px;
+}
+
+.card-actions {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.card-actions button {
+  background: #dc2626;
+}
