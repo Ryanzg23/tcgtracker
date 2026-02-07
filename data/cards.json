@@ -1,15 +1,13 @@
 
 {
-  "OP01-016": {
+    "OP01-016": {
     "name_en": "Nami",
     "name_jp": "ナミ",
     "set": "OP01",
     "rarity": "SR",
     "color": "Blue",
     "image": "/assets/cards/OP01-016.jpg"
-  }
-}
-{
+  },
   "OP01-001": {
     "name_en": "Roronoa",
     "name_jp": "",
