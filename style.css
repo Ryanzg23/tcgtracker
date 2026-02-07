@@ -94,3 +94,111 @@ button {
   width: 40px;
   border-radius: 4px;
 }
+/* ---------- LAYOUT ---------- */
+
+.container {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+/* ---------- CARD ROW ---------- */
+
+.card-row {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  background: linear-gradient(180deg, #0f172a, #020617);
+  padding: 12px;
+  border-radius: 10px;
+}
+
+.card-img {
+  width: 56px;
+  height: auto;
+  flex-shrink: 0;
+  border-radius: 6px;
+}
+
+.card-info {
+  flex: 1;
+  min-width: 0;
+}
+
+.card-info strong {
+  display: block;
+  font-size: 15px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.card-info small {
+  font-size: 12px;
+  opacity: 0.65;
+}
+
+/* ---------- ACTIONS ---------- */
+
+.card-actions {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.card-actions span {
+  font-weight: 600;
+  min-width: 28px;
+  text-align: center;
+}
+
+.card-actions button {
+  width: 36px;
+  height: 36px;
+  border-radius: 999px;
+  font-size: 18px;
+  line-height: 1;
+}
+
+/* ---------- SEARCH ---------- */
+
+.search-box {
+  margin-bottom: 16px;
+}
+
+.search-box input {
+  font-size: 16px; /* prevents iOS zoom */
+}
+
+.search-item {
+  align-items: center;
+}
+
+.search-item div {
+  min-width: 0;
+}
+
+.search-item strong {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+/* ---------- MOBILE OPTIMIZATION ---------- */
+
+@media (max-width: 640px) {
+  body {
+    padding: 12px;
+  }
+
+  h1 {
+    font-size: 20px;
+  }
+
+  .card-row {
+    padding: 10px;
+  }
+
+  .card-img {
+    width: 48px;
+  }
+}
